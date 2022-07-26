@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611657528628",
+    "project_id": "fute-1fbf5",
+    "storage_bucket": "fute-1fbf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611657528628:android:7ec2c17c3b58eb6d88e161",
+        "android_client_info": {
+          "package_name": "com.example.projectbootcampsantander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611657528628-otf8d5t6fhm7fi6p4d88ra32vtbg3ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByme1YwgA30dvoS8pgVtW83yjHsSPNON8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611657528628-otf8d5t6fhm7fi6p4d88ra32vtbg3ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
